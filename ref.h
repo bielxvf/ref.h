@@ -81,4 +81,5 @@ uint64_t read_entire_file(FILE *fd, uint8_t **d)
 */
 /* 
     TODO: get rid of malloc!
+    TODO: platform independent
 */
